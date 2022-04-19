@@ -1,3 +1,5 @@
+### Run the App using npm start
+
 # Packages installation steps
 
 npx create-react-app .
